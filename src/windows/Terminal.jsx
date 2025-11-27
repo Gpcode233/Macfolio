@@ -8,8 +8,8 @@ const Terminal = () => {
     return (
         <>
             <div id='window-header'>
-                <WindowControls target="terminal"/>
-                <h2>Tech Stack</h2>
+                <WindowControls target="terminal" />
+                <h2>Terminal - Tech Stack</h2>
             </div>
 
             <div className='techstack'>
