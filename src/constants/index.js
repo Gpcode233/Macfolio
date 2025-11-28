@@ -348,7 +348,7 @@ const WORK_LOCATION = {
             "DYTOR is a professional stage & event timer software for managing live productions, conferences, and media shows.",
             "It offers millisecond-accurate timers, multi-device synchronization, role-based access (e.g. admin, speaker, controller), live message display and preset cues.",
             "DYTOR lets teams coordinate schedules in real time — ideal for events, media houses, or churches needing precise control over show flow.",
-            "Plans include a free Starter option and paid tiers for teams needing remote dashboards, schedule automation, multi-device support, and exports. Perfect for productions and organized events."
+            "Perfect for productions and organized events."
           ],
         },
         {
