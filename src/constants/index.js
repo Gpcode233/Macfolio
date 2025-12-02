@@ -190,18 +190,18 @@ const gallery = [
     id: 1,
     img: "/images/gal1.png",
   },
-  {
-    id: 2,
-    img: "/images/gal2.png",
-  },
-  {
-    id: 3,
-    img: "/images/gal3.png",
-  },
-  {
-    id: 4,
-    img: "/images/gal4.png",
-  },
+  // {
+  //   id: 2,
+  //   img: "/images/gal2.png",
+  // },
+  // {
+  //   id: 3,
+  //   img: "/images/gal3.png",
+  // },
+  // {
+  //   id: 4,
+  //   img: "/images/gal4.png",
+  // },
 ];
 
 export {
@@ -399,24 +399,24 @@ const ABOUT_LOCATION = {
       position: "top-10 left-5",
       imageUrl: "/images/godspower.jpg",
     },
-    {
-      id: 2,
-      name: "conference-me.png",
-      icon: "/images/image.png",
-      kind: "file",
-      fileType: "img",
-      position: "top-28 right-72",
-    imageUrl: "/images/godspower-2.jpg",
-    },
-    {
-      id: 3,
-      name: "casual-me.png",
-      icon: "/images/image.png",
-      kind: "file",
-      fileType: "img",
-      position: "top-52 left-80",
-      imageUrl: "/images/godspower-3.jpg",
-    },
+    // {
+    //   id: 2,
+    //   name: "conference-me.png",
+    //   icon: "/images/image.png",
+    //   kind: "file",
+    //   fileType: "img",
+    //   position: "top-28 right-72",
+    // imageUrl: "/images/godspower-2.jpg",
+    // },
+    // {
+    //   id: 3,
+    //   name: "casual-me.png",
+    //   icon: "/images/image.png",
+    //   kind: "file",
+    //   fileType: "img",
+    //   position: "top-52 left-80",
+    //   imageUrl: "/images/godspower-3.jpg",
+    // },
     {
       id: 4,
       name: "about-me.txt",
